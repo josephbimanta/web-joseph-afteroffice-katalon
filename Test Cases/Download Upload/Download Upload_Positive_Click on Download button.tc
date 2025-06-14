@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download Upload_Positive_Click on Download button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63576d81-e99c-4ec5-be43-c6d815dd7caf</testCaseGuid>
+</TestCaseEntity>

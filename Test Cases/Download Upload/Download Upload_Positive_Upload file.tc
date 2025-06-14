@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download Upload_Positive_Upload file</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b273480e-f380-407b-bb7d-e11f76d6258e</testCaseGuid>
+</TestCaseEntity>

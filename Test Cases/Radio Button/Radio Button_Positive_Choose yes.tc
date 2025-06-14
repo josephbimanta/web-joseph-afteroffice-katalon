@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Radio Button_Positive_Choose yes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>032ca726-23d0-447c-9a11-57875a947130</testCaseGuid>
+</TestCaseEntity>

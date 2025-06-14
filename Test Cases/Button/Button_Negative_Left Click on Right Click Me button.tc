@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Button_Negative_Left Click on Right Click Me button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6611b34d-9866-4eac-a6a1-951e0405bd1d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Button_Positive_Double Click Me</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63498ff9-d6cb-4c67-a0fc-e567475ba70f</testCaseGuid>
+</TestCaseEntity>

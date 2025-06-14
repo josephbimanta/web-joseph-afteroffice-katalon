@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Button_Negative_Right Click on Double Click Me button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6465a460-fe4b-4965-8bc1-b232c1b6df12</testCaseGuid>
+</TestCaseEntity>

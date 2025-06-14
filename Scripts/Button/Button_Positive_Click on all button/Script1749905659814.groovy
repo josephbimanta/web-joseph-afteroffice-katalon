@@ -21,11 +21,19 @@ WebUI.openBrowser('https://demoqa.com/buttons')
 
 WebUI.maximizeWindow()
 
-WebUI.scrollToElement(findTestObject('Button/Button_Button_Click Me'), 0)
+WebUI.scrollToElement(findTestObject('Button/Button_Button_Double Click Me'), 0)
+
+WebUI.doubleClick(findTestObject('Button/Button_Button_Double Click Me'))
+
+WebUI.rightClick(findTestObject('Button/Button_Button_Right Click Me'))
 
 WebUI.click(findTestObject('Button/Button_Button_Click Me'))
 
-WebUI.verifyElementVisible(findTestObject('Button/Button_Text_Click Me'))
+WebUI.verifyElementPresent(findTestObject('Button/Button_Text_Double Click Me'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Button/Button_Text_Right Click Me'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Button/Button_Text_Click Me'), 0)
 
 WebUI.closeBrowser()
 

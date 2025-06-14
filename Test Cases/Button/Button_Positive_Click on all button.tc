@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Button_Positive_Click on all button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1df29ff8-5f31-4383-adbb-53ddfe2c0fda</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Text Box</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a29e8654-d4b9-4102-881a-3eab4aeb334a</testSuiteGuid>
+   <testCaseLink>
+      <guid>647dbf47-baee-4e3a-bc52-35d60329028f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Text Box/Text Box_Submit_Negative_Blank all field</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d0f2becb-9285-4718-954c-27c570e14366</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a88f1a31-042c-42b1-8e3c-ae0778cdbd52</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Text Box/Text Box_Submit_Negative_Fill invalid email only</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>85fe34dd-c432-4086-a425-823092ed45b2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6b0ebfff-c048-4639-83fc-4ba06c56b38c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Text Box/Text Box_Submit_Positive_Fill all field</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>313a0907-b6c9-4da7-b821-a03baa89a155</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a4fa8ca5-f317-4236-89f9-d1a17b002ca6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Text Box/Text Box_Submit_Positive_Fill email only</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>35e1c9f9-fdec-42dc-88c0-0d6d71734317</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>edf32eda-7db5-404e-af08-d1981bcd97e7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Text Box/Text Box_Submit_Positive_Fill full name and email</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>65de5e69-f3bb-4821-9eee-2f8ec9f64f55</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>08bd5ee4-1954-471f-acc6-989b992eddd6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Text Box/Text Box_Submit_Positive_Fill full name only</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>67f3a438-3e39-4d0d-8ad1-8d856c192a33</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

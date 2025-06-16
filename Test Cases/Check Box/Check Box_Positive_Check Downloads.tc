@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Box_Positive_Check Downloads</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35edcf79-21b2-45f9-a26d-c8d0fe454bca</testCaseGuid>
+</TestCaseEntity>
